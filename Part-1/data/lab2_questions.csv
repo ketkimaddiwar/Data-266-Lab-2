@@ -1,0 +1,15 @@
+id,conversation_id,question_id,question
+1,1,1,What happened to global life expectancy during the COVID-19 pandemic?
+2,1,2,Which regions were hit hardest by the pandemic?
+3,1,3,How did the disease burden shift during this time?
+4,2,1,What were the top causes of death globally in 2021?
+5,2,2,Did COVID-19 rank differently across regions?
+6,2,3,What about child and maternal mortality during this period?
+7,3,1,How is the world doing on HIV prevention?
+8,3,2,What about other infectious diseases like TB and malaria?
+9,3,3,Are there any success stories in disease elimination?
+10,4,1,What's the status of tobacco and alcohol consumption globally?
+11,4,2,Are people getting better access to clean water and sanitation?
+12,4,3,What about health system readiness - how prepared are countries for health emergencies?
+13,5,1,How much are countries spending on health?
+14,5,2,Are people facing financial hardship from health costs?

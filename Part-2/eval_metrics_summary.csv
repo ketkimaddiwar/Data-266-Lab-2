@@ -1,0 +1,3 @@
+model,N_images,IS_mean,CLIP_mean
+baseline,50,2.4,0.2917
+finetuned,50,2.676,0.2862
